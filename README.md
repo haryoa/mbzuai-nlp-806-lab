@@ -1,4 +1,4 @@
-# 🧪 MBZUAI NLP806 Lab Repository
+# 🧪 MBZUAI NLP702/806 Lab Repository
 
 Welcome to the repository for NLP806! This repository contains  materials used in our laboratory courses.
 
