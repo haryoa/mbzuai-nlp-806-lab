@@ -15,7 +15,7 @@ Our lab sessions are aimed to:
 
 | Topic | Description | Materials | 
 |-------|-------------|-----------|
-| Basic Pytorch and Huggingface | - Review of Pytorch fundamentals <br> - Basic Huggingface usage  | `week1/basic_pytorch.ipynb`<br> `week1/basic_huggingface.ipynb` | 
+| Basic Pytorch and Huggingface | - Review of Pytorch fundamentals <br> - Basic Huggingface usage  | `week1-refresher/basic_pytorch.ipynb`<br> `week1-refresher/basic_huggingface.ipynb` | 
 
 
 **Additional Resources:**
